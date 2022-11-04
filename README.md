@@ -1,4 +1,4 @@
-# stage_2
+# Resume App
 
 A new Flutter project.
 
