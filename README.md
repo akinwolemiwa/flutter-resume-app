@@ -8,7 +8,7 @@ This is a simple resume app with contains the details of Siyanbola Akinwolemiwa 
 
 ## Description of the code base and how it works
 
-This is a simple app with a very straight forward code base. The app runs from the main function with triggers a splash screen then a navigation bar.
+This is a simple app with a very straight forward code base. The app runs from the main function with triggers a splash screen then a navigation bar. The minimum sdk for this app is android 12 (API 31)
 
 ## Description of the design
 
